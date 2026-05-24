@@ -16,6 +16,7 @@ A comprehensive end-to-end data science solution for sales revenue forecasting, 
 ├── ProphetPredictedvsActual.png # Prophet model: actual vs predicted
 ├── forecast30day.png            # 30-day forward forecast with confidence intervals
 └── forecast30dayweekly.png      # Forecast components (macro trend + weekly cycle)
+└── Account_B                    # All the same things related to Account B
 ```
 
 ---
